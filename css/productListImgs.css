@@ -1,0 +1,135 @@
+/*
+ *网站头部下拉商品导航区域css设置
+**/
+ul.prodList{
+    width: 1280px;
+    height: 136px;
+    margin: 0 auto;
+    display: none;
+}
+ul.prodList li{
+    display: block;
+    float: left;
+    width: 140px;
+    height: 132px;
+}
+ul.prodList li a{
+    padding: 10px 0 0 0;
+}
+ul.prodList li span{
+    display: block;
+    width: 125px;
+    height: 85px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+ul.prodList li p{
+    width: 140px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 12px;
+    text-align: center;
+    margin: 0 auto;
+}
+/* = = = 魅族手机 = = = */
+ul.mzPhone{
+    margin: auto;
+    padding-left: 280px ;
+}
+ul.mzPhone li.mz-header-sub-pro7 span{
+    background-image: url("../imgs/pro7_486382d.png");
+}
+ul.mzPhone li.mz-header-sub-pro6plus span{
+    background-image: url("../imgs/pro6plus_e6bf23a.png");
+}
+ul.mzPhone li.mz-header-sub-pro6s span{
+    background-image: url("../imgs/pro6s_e769573.png");
+}
+ul.mzPhone li.mz-header-sub-mx6 span{
+    background-image: url("../imgs/mx6_23e5fc6.png");
+}
+ul.mzPhone li.mz-header-sub-pro6 span{
+    background-image: url("../imgs/pro6_d31bab6.png");
+}
+
+/* = = = 魅蓝手机 = = = */
+ul.mlPhone{
+    margin: auto;
+    padding-left: 130px ;
+}
+ ul.mlPhone li.mz-header-sub-mlA5 span{
+     background-image: url("../imgs/m5a_1c3d55b.png");
+ }
+ul.mlPhone li.mz-header-sub-mlE2 span{
+    background-image: url("../imgs/m3e2_9b619ec.png");
+}
+ul.mlPhone li.mz-header-sub-ml5s span{
+      background-image: url("../imgs/m5s_357ada5.png");
+ }
+ul.mlPhone li.mz-header-sub-mlNote5 span{
+    background-image: url("../imgs/m5note_77497bf.png");
+}
+ul.mlPhone li.mz-header-sub-mlX span{
+  background-image: url("../imgs/m3x_9846898.png");
+}
+ul.mlPhone li.mz-header-sub-ml5 span{
+    background-image: url("../imgs/m5_45957e3.png");
+}
+ul.mlPhone li.mz-header-sub-mlMax span{
+  background-image: url("../imgs/m3max_d7883c0.png");
+}
+ul.mlPhone li.mz-header-sub-mlE span{
+    background-image: url("../imgs/m3e_a922cdc.png");
+}
+
+/* = = = 魅族声学 = = = */
+ul.mzSound{
+    margin: auto;
+    padding-left: 400px ;
+}
+ul.mzSound li.mz-header-sub-mzFlow span{
+    background-image: url("../imgs/flow_5074873.png");
+}
+ul.mzSound li.mz-header-sub-mzSpeaker span{
+    background-image: url("../imgs/a20_f381ebd.png");
+}
+ul.mzSound li.mz-header-sub-mzEP2X span{
+    background-image: url("../imgs/ep2x_d112722.png");
+}
+ul.mzSound li.mz-header-sub-mzEP51 span{
+    background-image: url("../imgs/ep51_7b728d8.png");
+}
+ul.mzSound li.mz-header-sub-mzHD50 span{
+    background-image: url("../imgs/hd50_0ef1eab.png");
+}
+
+/* = = = 魅族智能配件 = = = */
+ul.mzSmart{
+    margin: auto;
+    padding-left: 130px ;
+}
+ul.mzSmart li.mz-header-sub-mzPackage span{
+    background-image: url("../imgs/travellingbag_08eef7c.png");
+}
+ul.mzSmart li.mz-header-sub-mzWristband span{
+    background-image: url("../imgs/band_7b3ed26.png");
+}
+ul.mzSmart li.mz-header-sub-mzWatch span{
+    background-image: url("../imgs/mix_3e3cebd.png");
+}
+ul.mzSmart li.mz-header-sub-mzMusicPro span{
+    background-image: url("../imgs/musiccard_77b8fdf.png");
+}
+ul.mzSmart li.mz-header-sub-mzBox span{
+    background-image: url("../imgs/tvbox_cd026fb.png");
+}
+ul.mzSmart li.mz-header-sub-mzBag span{
+    background-image: url("../imgs/backpack_b762aa8.png");
+}
+ul.mzSmart li.mz-header-sub-mzWindowPro span{
+    background-image: url("../imgs/loopjacket_003383b.png");
+}
+ul.mzSmart li.mz-header-sub-mzRouting span{
+    background-image: url("../imgs/router_s_82d6bf4.png");
+}
